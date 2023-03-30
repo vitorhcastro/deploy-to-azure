@@ -279,7 +279,7 @@ We won't be going into detail on the steps of this workflow, but it would be a g
 </details>
 
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Spin up an environment based on labels</h2></summary>
 
 _Nicely done! :heart:_
@@ -422,7 +422,7 @@ The second job destroys Azure resources so that you do not use your free minutes
 
 </details>
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Deploy to a staging environment based on labels</h2></summary>
 
 _Nicely done, you used a workflow to spin up your Azure environment  :dancer:_
