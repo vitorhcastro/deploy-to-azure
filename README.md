@@ -573,7 +573,7 @@ Great! The syntax you used tells GitHub Actions to only run that workflow when a
 
 </details>
 
-<details id=6 open>
+<details id=6>
 <summary><h2>Step 6: Production deployment</h2></summary>
 
 _Nice work! :sparkle:_
@@ -598,7 +598,7 @@ Throughout the course you've spun up resources that, if left unattended, could i
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 <img src=https://octodex.github.com/images/octdrey-catburn.jpg alt=celebrate width=300 align=right>
